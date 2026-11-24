@@ -1,0 +1,36 @@
+
+body {
+  background: #ffe0ed;
+  font-family: Arial;
+  text-align: center;
+}
+
+.box {
+  background: white;
+  width: 280px;
+  margin: 80px auto;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px pink;
+}
+
+h2 {
+  color: #e75480;
+}
+
+input {
+  width: 90%;
+  padding: 12px;
+  margin: 8px;
+  border: 1px solid pink;
+  border-radius: 10px;
+}
+
+button {
+  background: #ff80ab;
+  color: white;
+  border: none;
+  padding: 12px;
+  margin: 5px;
+  border-radius: 10px;
+}
